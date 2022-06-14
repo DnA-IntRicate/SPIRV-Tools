@@ -33,3 +33,8 @@ bazel-testlogs
 
 # VSCode
 /.vscode/*
+
+*.csproj
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
